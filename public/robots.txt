@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /account
+Disallow: /messages
+Disallow: /bookings
+Disallow: /jobs
+Disallow: /earnings
+Disallow: /notifications
+
+Sitemap: https://inbooc.grok.me/sitemap.xml

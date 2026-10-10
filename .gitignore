@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.output/
+.vercel/
+.env
+.env.*
+*.log
+.project_id
+artifacts/
+attachments/
+screenshots/
